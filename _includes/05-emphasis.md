@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am passionate about **Intercultural Technical Communication** and **Web Accessibility**, which includes _**Visual**_ and _**Cognitive**_  
